@@ -51,11 +51,10 @@ body{
 
 .back-3{
     background-color: #F4F4FD;
-    width: 1440px;
-    height: 732px;
-    top: 1016px;
-    
 }
+    
+
+
  
 .content-4{ 
     font-size: 16px;
@@ -63,8 +62,6 @@ body{
     color: #F4F4FD;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    width: 1440px;
-    height: 312px;
     top: 2988px;
 }
 
@@ -73,7 +70,7 @@ body{
     font-size: 18px;
     font-style: bold;
     font-weight: 700;
-    line-height: 21;
+    line-height: 2;
     letter-spacing: 0.03em;
     font-family: 'Raleway' sans-serif;
 }
@@ -91,8 +88,6 @@ body{
 }
 
 .order-btn{
-    width: 169px;
-    height: 56px;
     top: 428px;
     left: 636px;
     border-radius: 4px;
