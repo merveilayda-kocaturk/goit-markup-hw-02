@@ -36,7 +36,7 @@ body{
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
-    background-color: #F4F4FD;
+
 }  
 
 .back-1{
@@ -65,14 +65,15 @@ body{
     top: 2988px;
 }
 
+
 .logo{
     text-decoration: none;
     font-size: 18px;
     font-style: bold;
     font-weight: 700;
-    line-height: 2;
+    line-height: 1.17;
     letter-spacing: 0.03em;
-    font-family: 'Raleway' sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
 .web{
@@ -105,5 +106,19 @@ body{
 
 .no-bullets  {
     list-style: none;
-   
+}
+
+
+nav ul li a {
+    text-decoration: none;
+
+}
+nav ul li a:hover{
+    color: #4D5AE5;
+}
+address a{
+    text-decoration: none;
+}
+address a:hover{
+    color: #4D5AE5;
 }
